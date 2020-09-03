@@ -1,36 +1,15 @@
-<p align="center">
-<img src="https://github.com/MenaiAla/react-navigation/blob/master/logo.png"/>
-<h3 align="center">React Navigation</h3>
-</p> 
-<h5 align="center">Professional Navigation with modern design.</h5>
+# Time Series Worflow Marketplace platform
 
-## Demo
-
-[Live App](https://jiue8.csb.app/)
-
-[On Codesandbox](https://codesandbox.io/s/menaialareact-navigation-jiue8)
+TSWF-Marketplace is a simple platform for publishing Time Series services based on semantic definitions with tswf-schema. It allows to upload workflows with previously created time series either to compose workflows from scratch or to combine different workflows to conform a complete TS service that is easily portable between services and Cloud Computing platforms. 
 
 ## Features
 
-- [x] Well-structured directories and modules.
-- [x] Modular and readable code.
-- [x] Modern user interface.
-- [x] Responsive.
-- [x] Respected accessibility and usability.
+- Upload workflows with semantic descriptions from **tswf-schema** in *jsonld*, *RDF* or *ttl*.
+- Compose time-series workflows using Building-Blocks tools. Export composition to **tswf-schema** ready to publish.
+- Publish workflows as ready-to-use time-series services in Cloud Computing providers. This might includes the cost aspects of the service, SLA, authentication, etc.
 
-## Scripts
 
-In the project directory, you can run:
+## Credits
 
-#### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-#### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- Distributed Computation Time-Series Lab. University of Granada. Spain.
+- Web Layout: [Author]
