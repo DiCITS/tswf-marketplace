@@ -1870,7 +1870,7 @@ video {
 .bg-brand {
   --bg-opacity: 1;
   background-color: #8F17FA;
-  background-color: rgba(74, 75, 141, var(--bg-opacity));
+  background-color: rgba(143, 23, 250, var(--bg-opacity));
 }
 
 .bg-brand-dark {
@@ -17916,7 +17916,7 @@ video {
 .text-brand {
   --text-opacity: 1;
   color: #8F17FA;
-  color: rgba(74, 75, 141, var(--text-opacity));
+  color: rgba(143, 23, 250, var(--text-opacity));
 }
 
 .text-brand-dark {

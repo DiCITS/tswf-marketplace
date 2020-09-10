@@ -23,5 +23,14 @@ const GetStartedButton = () => (
         />
     </Link>)
 
+const AboutAuthor = () => (
+    <p className="xs:text-2xl 
+                  sm:text-4xl
+                  md:text-5xl
+                  font-helvetica font-bold text-center text-brand-dark leading-snug">
+        Manuel Parra
+    </p>
+)    
+
 export default UniqueValueStatement
-export {GetStartedButton}
+export {AboutAuthor}
